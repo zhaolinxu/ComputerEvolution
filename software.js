@@ -130,7 +130,7 @@ var os = {
             }
             if(what != undefined)
             info(retLangCorrect(
-            	"You need to upgrade " + what + " to install this Operating System",
+            	"你需要升级" + what + " to install this Operating System",
             	"Precisas de melhorar " + what + " para instalar este Sistema Operativo",
             	"你需要升级" + what + "才能安装这个操作系统"
             	));
